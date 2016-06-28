@@ -1,0 +1,73 @@
+Started loading model Models/hallway.POMDP
+|S| = 61|A| = 5|O| = 21
+.Done loading model
+
+Init value function to min
+Min R value = 0.0 init value = 0.0
+Begin blind policy computation  5 actions
+Done action 0 after 1 iterations |V| = 1
+Done action 1 after 2 iterations |V| = 1
+Done action 2 after 1 iterations |V| = 1
+Done action 3 after 1 iterations |V| = 1
+Done action 4 after 1 iterations |V| = 1
+Done blind policy
+Started FIB
+FIB: 0, 0.8
+FIB: 1, 0.76
+FIB: 2, 0.5623447394774386
+FIB: 3, 0.4281013071262086
+FIB: 4, 0.3285065394211515
+FIB: 5, 0.2603740224206124
+FIB: 6, 0.19411816499347276
+FIB: 7, 0.1539689637397132
+FIB: 8, 0.13372692216183726
+FIB: 9, 0.11490840011941497
+FIB: 10, 0.10205625497599914
+FIB: 11, 0.09020415460029796
+FIB: 12, 0.0780719847071259
+FIB: 13, 0.07224659059365932
+FIB: 14, 0.05788431028442109
+FIB: 15, 0.04425092838596828
+FIB: 16, 0.032786535823085494
+FIB: 17, 0.02359259493801802
+FIB: 18, 0.01662184336859529
+FIB: 19, 0.011511117871788878
+FIB: 20, 0.00786134364764074
+Done FIB, max diff between QMDP and FIB is 0.0, 0.0
+0.017865
+Max lowBounddelta over bs[0=0.017865,(1-55)=0.017857] from 0.021 to 0.023
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.03, stdev 0.15557
+Iteration: 1 |Vn|: = 2 |B|: = 2 Delta: = 0.0022 simulated ADR: 0.02977885551646519 filtered ADR: 0.03 LoopTime: 1seconds CurrentTotalTime: 1seconds
+Prune after backup |B|: 2
+Max lowBounddelta over bs[0=0.017865,(1-55)=0.017857] from 0.023 to 0.04
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.301, stdev 0.2919
+Iteration: 2 |Vn|: = 4 |B|: = 4 Delta: = 0.0174 simulated ADR: 0.3014518770795142 filtered ADR: 0.166 LoopTime: 0seconds CurrentTotalTime: 1seconds
+Prune after backup |B|: 4
+Max lowBounddelta over bs[26=1.0] from 0.04 to 0.247
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.316, stdev 0.3157
+Iteration: 3 |Vn|: = 10 |B|: = 8 Delta: = 0.2068 simulated ADR: 0.3157078605416791 filtered ADR: 0.241 LoopTime: 0seconds CurrentTotalTime: 2seconds
+Prune after backup |B|: 8
+Max lowBounddelta over bs[5=0.028732,7=0.036403,13=0.921932] from 0.006 to 0.133
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.507, stdev 0.20173
+Iteration: 4 |Vn|: = 24 |B|: = 16 Delta: = 0.1266 simulated ADR: 0.5065993871487515 filtered ADR: 0.374 LoopTime: 0seconds CurrentTotalTime: 2seconds
+Prune after backup |B|: 16
+Max lowBounddelta over bs[25=0.998335] from 0.338 to 0.499
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.495, stdev 0.1823
+Iteration: 5 |Vn|: = 53 |B|: = 32 Delta: = 0.1607 simulated ADR: 0.49468312959439664 filtered ADR: 0.434 LoopTime: 0seconds CurrentTotalTime: 3seconds
+Prune after backup |B|: 32
+Max lowBounddelta over bs[54=0.022543,55=0.968010] from 0.224 to 0.323
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.504, stdev 0.19327
+Iteration: 6 |Vn|: = 96 |B|: = 64 Delta: = 0.0986 simulated ADR: 0.50364859633885 filtered ADR: 0.469 LoopTime: 1seconds CurrentTotalTime: 4seconds
+Prune after backup |B|: 64
+Max lowBounddelta over bs[19=0.854013,24=0.046619,27=0.053375,54=0.037148] from 0.256 to 0.312
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.504, stdev 0.19061
+Iteration: 7 |Vn|: = 136 |B|: = 128 Delta: = 0.0561 simulated ADR: 0.5035828020876971 filtered ADR: 0.486 LoopTime: 1seconds CurrentTotalTime: 6seconds
+Prune after backup |B|: 128
+Max lowBounddelta over bs[15=0.017121,19=0.026736,21=0.014388,23=0.261754,24=0.021083,27=0.307765,29=0.250818,54=0.078949] from 0.393 to 0.442
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.525, stdev 0.18791
+Iteration: 8 |Vn|: = 245 |B|: = 228 Delta: = 0.0484 simulated ADR: 0.5248456467649096 filtered ADR: 0.506 LoopTime: 4seconds CurrentTotalTime: 10seconds
+Prune after backup |B|: 228
+Max lowBounddelta over bs[18=1.0] from 0.388 to 0.452
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.52, stdev 0.1923
+Iteration: 9 |Vn|: = 351 |B|: = 328 Delta: = 0.0648 simulated ADR: 0.5203013032873122 filtered ADR: 0.513 LoopTime: 8seconds CurrentTotalTime: 19seconds
+Prune after backup |B|: 328

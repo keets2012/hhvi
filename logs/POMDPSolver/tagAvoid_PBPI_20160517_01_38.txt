@@ -1,0 +1,132 @@
+Started loading model Models/tagAvoid.POMDP
+|S| = 870|A| = 5|O| = 30
+............Done loading model
+
+Init value function to min
+Min R value = -1.0 init value = -19.999999999999982
+Begin blind policy computation  5 actions
+Done action 0 after 1 iterations |V| = 1
+Done action 1 after 1 iterations |V| = 1
+Done action 2 after 1 iterations |V| = 1
+Done action 3 after 1 iterations |V| = 1
+........Done action 4 after 89 iterations |V| = 2
+Done blind policy
+Started FIB
+FIB: 0, 10.0
+FIB: 1, 8.995498701426781
+FIB: 2, 8.545723766355442
+FIB: 3, 8.11843757803767
+FIB: 4, 7.7125156991357855
+FIB: 5, 7.326889914178995
+FIB: 6, 6.960545418470045
+FIB: 7, 6.612518147546543
+FIB: 8, 6.281892240169215
+FIB: 9, 5.9677976281607545
+FIB: 10, 5.669407746752717
+FIB: 11, 5.145692986834723
+FIB: 12, 3.855965340430143
+FIB: 13, 0.08419893830919367
+FIB: 14, 0.04443070990439857
+FIB: 15, 0.02469395829372889
+FIB: 16, 0.022469433177763065
+FIB: 17, 0.007961584331289462
+Done FIB, max diff between QMDP and FIB is 0.0, 0.0
+0.00118906
+Max lowBounddelta over bs[(810-836)=0.034482,(838-839)=0.034482] from -20.0 to -18.571
+Max upperBounddelta over bs[] is 1.221
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -11.271, stdev 4.22725
+Iteration: 1 |Vn|: = 3 |B|: = 2 Delta: = 1.4291 CurrentTotalTime: 1seconds
+Prune after backup |B|: 2
+minWidth: 17.196046284598154
+maxADR: -11.270796327210334
+
+Max lowBounddelta over bs[] from -19.111 to -18.6
+Max upperBounddelta over bs[(810-836)=0.034482,(838-839)=0.034482] is 0.0
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -10.289, stdev 6.23555
+Iteration: 2 |Vn|: = 7 |B|: = 4 Delta: = 0.5109 CurrentTotalTime: 3seconds
+Prune after backup |B|: 4
+minWidth: 3.5243812500000002
+maxADR: -10.288539626977558
+
+Max lowBounddelta over bs[(810-836)=0.034482,(838-839)=0.034482] from -18.2 to -17.7
+Max upperBounddelta over bs[810=0.062068,(811-814)=0.048275,815=0.041379,816=0.034482,817=0.041379,818=0.048275,819=0.062068,820=0.034482,(821-824)=0.020689,825=0.027586,826=0.020689,827=0.027586,828=0.020689,829=0.034482,830=0.041379,831=0.013793,832=0.041379,833=0.034482,834=0.013793,835=0.034482,836=0.027586,838=0.027586,839=0.034482] is 0.078
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -9.384, stdev 7.16557
+Iteration: 3 |Vn|: = 15 |B|: = 8 Delta: = 0.5004 CurrentTotalTime: 4seconds
+Prune after backup |B|: 8
+minWidth: 3.348162187499998
+maxADR: -9.384155609267843
+
+Max lowBounddelta over bs[771=0.25,(773-774)=0.25,777=0.25] from -18.074 to -6.827
+Max upperBounddelta over bs[771=0.25,(773-774)=0.25,777=0.25] is 0.41
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -13.944, stdev 8.55548
+Iteration: 4 |Vn|: = 31 |B|: = 16 Delta: = 11.2475 CurrentTotalTime: 7seconds
+Prune after backup |B|: 16
+minWidth: 3.1807540781249974
+maxADR: -9.384155609267843
+
+Max lowBounddelta over bs[831=0.25,(833-835)=0.25] from -11.649 to -7.951
+Max upperBounddelta over bs[865=0.5,867=0.5] is 0.959
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -12.354, stdev 8.0451
+Iteration: 5 |Vn|: = 63 |B|: = 32 Delta: = 3.6984 CurrentTotalTime: 11seconds
+Prune after backup |B|: 32
+minWidth: 3.021716374218748
+maxADR: -9.384155609267843
+
+Max lowBounddelta over bs[803=0.5,807=0.5] from -5.135 to -2.757
+Max upperBounddelta over bs[736=0.105263,740=0.157894,741=0.105263,743=0.263157,745=0.052631,746=0.105263,747=0.210526] is 1.135
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -9.797, stdev 8.9926
+Iteration: 6 |Vn|: = 127 |B|: = 64 Delta: = 2.3787 CurrentTotalTime: 18seconds
+Prune after backup |B|: 64
+minWidth: 2.8706305555078115
+maxADR: -9.384155609267843
+
+Max lowBounddelta over bs[846=0.039999,855=0.099999,856=0.059999,857=0.06,860=0.209999,861=0.089999,862=0.139999,863=0.159999,864=0.059999,865=0.079999] from -14.779 to -11.867
+Max upperBounddelta over bs[836=0.5,838=0.5] is 2.078
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -9.7, stdev 8.35303
+Iteration: 7 |Vn|: = 255 |B|: = 128 Delta: = 2.9118 CurrentTotalTime: 30seconds
+Prune after backup |B|: 128
+minWidth: 2.7270990277324207
+maxADR: -9.384155609267843
+
+Max lowBounddelta over bs[390=0.119377,391=0.057142,392=0.056011,393=0.040452,394=0.021216,395=0.019801,396=0.031400,397=0.048939,398=0.057142,399=0.119377,400=0.036209,401=0.013578,402=0.012446,408=0.013578,409=0.037340,412=0.026308,414=0.012446,415=0.047524,416=0.031117,417=0.048090,418=0.133804] from -14.104 to -11.435
+Max upperBounddelta over bs[767=0.142857,772=0.357142,778=0.5] is 1.663
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -9.588, stdev 8.97735
+Iteration: 8 |Vn|: = 483 |B|: = 228 Delta: = 2.6685 CurrentTotalTime: 55seconds
+Prune after backup |B|: 228
+minWidth: 2.590744076345799
+maxADR: -9.384155609267843
+
+Max lowBounddelta over bs[697=0.040000,707=0.120000,708=0.040000,712=0.210000,715=0.180000,718=0.410000] from -2.757 to -0.992
+Max upperBounddelta over bs[636=0.022263,637=0.059369,638=0.029684,645=0.044526,646=0.033395,647=0.100185,648=0.044526,649=0.014842,650=0.094619,652=0.133580,653=0.100185,655=0.050092,656=0.256029,658=0.016697] is 1.519
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -7.895, stdev 6.52901
+Iteration: 9 |Vn|: = 811 |B|: = 328 Delta: = 1.765 CurrentTotalTime: 87seconds
+Prune after backup |B|: 328
+minWidth: 2.461206872528509
+maxADR: -7.895077706313834
+
+Max lowBounddelta over bs[276=0.065573,277=0.327868,278=0.606557] from -5.262 to -1.3
+Max upperBounddelta over bs[696=0.05,705=0.1,706=0.075,707=0.025,710=0.199999,711=0.025,712=0.0375,715=0.0375,716=0.2375,717=0.15,718=0.062500] is 1.353
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -6.877, stdev 6.46486
+Iteration: 10 |Vn|: = 1239 |B|: = 428 Delta: = 3.9622 CurrentTotalTime: 134seconds
+Prune after backup |B|: 428
+minWidth: 2.3381465289020813
+maxADR: -6.876881920335073
+
+Max lowBounddelta over bs[61=0.142857,63=0.142857,71=0.142857,72=0.428571,73=0.142857] from -6.558 to -3.897
+Max upperBounddelta over bs[424=0.333333,433=0.333333,435=0.333333] is 1.407
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -7.621, stdev 6.01915
+Iteration: 11 |Vn|: = 1767 |B|: = 528 Delta: = 2.6609 CurrentTotalTime: 204seconds
+Prune after backup |B|: 528
+minWidth: 2.22123920245698
+maxADR: -6.876881920335073
+
+Max lowBounddelta over bs[360=0.086956,361=0.271739,362=0.206521,(370-371)=0.217391] from -2.93 to 0.969
+Max upperBounddelta over bs[393=0.333333,402=0.333333,404=0.333333] is 1.686
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -6.394, stdev 6.35995
+Iteration: 12 |Vn|: = 2395 |B|: = 628 Delta: = 3.8988 CurrentTotalTime: 297seconds
+Prune after backup |B|: 628
+minWidth: 2.110177242334129
+maxADR: -6.393851258636394
+
+Max lowBounddelta over bs[450=0.269273,451=0.065361,452=0.061000,453=0.053742,454=0.033023,455=0.017306,456=0.020883,457=0.027862,458=0.036255,459=0.238787,476=0.052589,477=0.029230,478=0.071780] from -10.546 to -7.064
+Max upperBounddelta over bs[480=0.179111,481=0.058308,482=0.044423,483=0.023201,484=0.010802,486=0.019308,487=0.036513,488=0.052232,489=0.178391,490=0.031505,499=0.030965,502=0.012073,505=0.036321,506=0.017058,507=0.034341,508=0.207005] is 1.206

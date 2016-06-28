@@ -1,0 +1,66 @@
+Started loading model Models/tagAvoid.POMDP
+|S| = 870|A| = 5|O| = 30
+............Done loading model
+
+Init value function to min
+Min R value = -1.0 init value = -19.999999999999982
+Begin blind policy computation  5 actions
+Done action 0 after 1 iterations |V| = 1
+Done action 1 after 1 iterations |V| = 1
+Done action 2 after 1 iterations |V| = 1
+Done action 3 after 1 iterations |V| = 1
+........Done action 4 after 89 iterations |V| = 2
+Done blind policy
+Started FIB
+FIB: 0, 10.0
+FIB: 1, 8.995498701426781
+FIB: 2, 8.545723766355442
+FIB: 3, 8.11843757803767
+FIB: 4, 7.7125156991357855
+FIB: 5, 7.326889914178995
+FIB: 6, 6.960545418470045
+FIB: 7, 6.612518147546543
+FIB: 8, 6.281892240169215
+FIB: 9, 5.9677976281607545
+FIB: 10, 5.669407746752717
+FIB: 11, 5.145692986834723
+FIB: 12, 3.855965340430143
+FIB: 13, 0.08419893830919367
+FIB: 14, 0.04443070990439857
+FIB: 15, 0.02469395829372889
+FIB: 16, 0.022469433177763065
+FIB: 17, 0.007961584331289462
+Done FIB, max diff between QMDP and FIB is 0.0, 0.0
+0.00118906
+Max lowBounddelta over bs[] from -20.0 to -19.394
+Max upperBounddelta over bs[] is 1.221
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -11.735, stdev 3.59197
+Iteration: 1 |Vn|: = 3 |B|: = 2 Delta: = 0.606 simulated ADR: -11.735439196190239 filtered ADR: -11.735 LoopTime: 1seconds CurrentTotalTime: 1seconds
+Prune after backup |B|: 2
+
+Max lowBounddelta over bs[(810-836)=0.034482,(838-839)=0.034482] from -20.0 to -18.57
+Max upperBounddelta over bs[510=0.062937,(511-515)=0.048951,516=0.041958,517=0.034965,518=0.041958,519=0.062937,520=0.034965,(521-524)=0.020979,525=0.027972,526=0.020979,528=0.013986,(529-530)=0.034965,(531-532)=0.013986,533=0.041958,(534-535)=0.020979,536=0.062937,(537-538)=0.041958] is 0.59
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -10.841, stdev 5.83444
+Iteration: 2 |Vn|: = 7 |B|: = 4 Delta: = 1.4303 simulated ADR: -10.84063097352761 filtered ADR: -11.288 LoopTime: 1seconds CurrentTotalTime: 3seconds
+Prune after backup |B|: 4
+
+Max lowBounddelta over bs[540=0.090014,(541-544)=0.053445,545=0.052039,546=0.036568,547=0.021097,548=0.035161,549=0.087201,550=0.036568,(551-553)=0.016877,554=0.019690,555=0.014064,559=0.033755,560=0.032348,563=0.047819,564=0.014064,565=0.014064,566=0.097046,(567-568)=0.042194] from -18.953 to -16.559
+Max upperBounddelta over bs[210=0.091428,(211-214)=0.054285,215=0.052857,216=0.037142,218=0.035714,219=0.088571,220=0.037142,(221-223)=0.017142,224=0.020000,225=0.014285,229=0.034285,230=0.032857,231=0.010000,233=0.048571,234=0.014285,235=0.014285,236=0.098571,(237-238)=0.042857] is 0.506
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -10.53, stdev 8.30888
+Iteration: 3 |Vn|: = 15 |B|: = 8 Delta: = 2.3938 simulated ADR: -10.53049319519651 filtered ADR: -10.909 LoopTime: 1seconds CurrentTotalTime: 4seconds
+Prune after backup |B|: 8
+
+Max lowBounddelta over bs[330=0.25,340=0.749999] from 0.39 to 6.708
+Max upperBounddelta over bs[423=0.100000,424=0.250000,425=0.300000,426=0.250000,427=0.100000] is 0.512
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -11.296, stdev 8.50714
+Iteration: 4 |Vn|: = 31 |B|: = 16 Delta: = 6.3182 simulated ADR: -11.296472924323593 filtered ADR: -11.103 LoopTime: 2seconds CurrentTotalTime: 7seconds
+Prune after backup |B|: 16
+
+Max lowBounddelta over bs[127=0.08,(128-129)=0.199999,137=0.069999,138=0.209999,139=0.08,142=0.119999,145=0.04] from -20.0 to -5.509
+Max upperBounddelta over bs[122=0.047058,123=0.129411,125=0.270588,126=0.317647,127=0.188235,128=0.047058] is 0.492
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR -10.496, stdev 8.4486
+Iteration: 5 |Vn|: = 63 |B|: = 32 Delta: = 14.4912 simulated ADR: -10.495505186988195 filtered ADR: -10.799 LoopTime: 4seconds CurrentTotalTime: 11seconds
+Prune after backup |B|: 32
+
+Max lowBounddelta over bs[626=0.6,627=0.3,628=0.099999] from -9.672 to 1.508
+Max upperBounddelta over bs[480=0.089887,(481-484)=0.053370,485=0.051966,486=0.036516,487=0.021067,488=0.035112,489=0.087078,490=0.036516,(491-493)=0.016853,494=0.019662,495=0.014044,499=0.033707,500=0.032303,503=0.047752,504=0.014044,505=0.014044,506=0.096910,(507-508)=0.042134] is 0.95

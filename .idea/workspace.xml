@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a88c3fa-c4ad-42e0-8a1a-63b3d59793b1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Cluster.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/HHVI.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Models/4x3.95.POMDP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Models/RockSample_5_5.POMDP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Models/Wumpus7_0.POMDP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Models/dialogue.POMDP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Models/hallway.1.POMDP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Models/hallway.POMDP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Models/hallway2.1.POMDP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Models/hallway2.POMDP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Models/heaven-hell.POMDP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Models/tagAvoid.POMDP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Models/tiger-grid.POMDP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/Models/underwaterNav.POMDP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160427_15:17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160427_15:18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160427_15:20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160427_15:21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160519_20:23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160519_20:34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160519_21:08.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160519_21:18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160523_21:54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160523_22:46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160523_23:05.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160523_23:20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160523_23:32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160527_19:37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160527_20:12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160527_20:25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160527_21:39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160530_15:26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160530_15:48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160531_22:37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160531_22:58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160601_00:01.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160601_00:30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160601_00:40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160601_00:43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160601_00:44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160601_15:43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/RockSample_5_5_PBPI_20160601_15:59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/Wumpus7_0_PBPI_20160427_16:39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/Wumpus7_0_PBPI_20160601_00:19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/Wumpus7_0_PBVI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/dialogue_PBPI_20160427_16:33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway.1_PBVI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway2.1_PBVI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway2_PBPI_20160524_15:21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway2_PBPI_20160525_16:51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway2_PBPI_20160525_16:57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway2_PBVI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160427_14:34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160427_14:36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160429_19:49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160429_19:53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160429_19:56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160429_20:17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160429_20:22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160429_20:29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160429_20:34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160429_20:50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160429_21:04.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160429_22:10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160517_01:52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160517_16:34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160519_18:54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160519_20:04.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160519_20:11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBPI_20160523_23:49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_16:31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_16:58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_17:48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_17:51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_19:16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_19:29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_19:30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_19:31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_19:32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_19:38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_19:40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_20:27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_20:30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_20:57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_21:05.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/hallway_PBVI_20160418_21:11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/heaven-hell_PBVI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_HHVI_20160603_01:35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_HHVI_20160603_12:05.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_HHVI_20160628_20:45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_HHVI_20160628_20:46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_HHVI_20160628_20:50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_HHVI_20160628_21:27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_HHVI_20160628_21:43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_HHVI_20160628_21:44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_HHVI_20160628_22:20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_HHVI_20160628_22:21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160427_16:06.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160427_16:40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160428_18:53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160429_19:21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160429_19:28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160429_19:35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160429_19:36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160429_19:37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160429_19:40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160504_21:29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160515_14:54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160515_14:59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160515_15:09.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160515_15:14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160515_15:21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160516_14:04.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160516_14:56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:08.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:09.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_00:53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_01:00.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_01:09.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_01:18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_01:23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_01:28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_01:34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160517_01:38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160519_16:49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160519_16:56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160519_17:03.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160519_17:09.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160519_17:19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160519_17:24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160519_17:27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160519_17:31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160519_17:37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160519_17:41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160519_18:12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160523_22:05.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160523_22:11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160523_22:17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160523_22:35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tagAvoid_PBPI_20160601_16:05.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_HHVI_20160602_21:15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160427_13:10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160427_13:38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160427_14:34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160429_22:47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160429_22:49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160429_23:14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160430_23:07.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160430_23:56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160501_14:46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160501_14:52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160501_15:12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160501_15:33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160515_14:25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160515_14:27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160519_20:18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160524_00:05.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160524_00:11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger-grid_PBPI_20160525_19:22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/tiger_grid_PBPI_20160523_22:42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/underwaterNav_HHVI_20160603_01:28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/underwaterNav_HHVI_20160603_01:30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/underwaterNav_HHVI_20160603_01:33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/underwaterNav_HHVI_20160603_01:34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/underwaterNav_HHVI_20160603_01:35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/underwaterNav_PBPI_20160427_14:41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/underwaterNav_PBPI_20160504_20:48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/underwaterNav_PBPI_20160504_20:52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/underwaterNav_PBPI_20160504_20:55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/underwaterNav_PBPI_20160523_22:42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/underwaterNav_PBPI_20160524_14:37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/logs/POMDPSolver/underwaterNav_PBPI_20160525_17:59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/dbscan/Dbscan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/dbscan/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/dbscan/Utility.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/POMDPSolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/RandomWalkPolicy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/algorithms/PolicyStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/algorithms/ValueIteration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/algorithms/pointbased/HHVIValueIteration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/environments/POMDP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/AlphaVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/BeliefState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/BeliefStateComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/BeliefStateFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/BeliefStateVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/DBSCAN.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/EndOfFileException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/Expander.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/InvalidModelFileFormatException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/JProf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/LineReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/Logger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/MachineState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/POMDPLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/Pair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/RandomGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/SparseTabularFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/TabularAlphaVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/TabularBeliefState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/concurrent/ComputeDiscountedReward.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/concurrent/Task.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/datastructures/DoubleVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/datastructures/DoubleVectorFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/datastructures/Function.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/datastructures/IntVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/datastructures/IntVectorFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/datastructures/LinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/datastructures/PriorityQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/datastructures/PriorityQueueElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/datastructures/StaticMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/datastructures/TabularFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/datastructures/VectorBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/datastructures/VectorFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/distance/DistanceMetric.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/distance/L1Distance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/utilities/distance/LDistance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/valuefunction/JigSawValueFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/valuefunction/LinearValueFunctionApproximation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/valuefunction/MDPValueFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../gitrepository/HHVI/src/pomdp/valuefunction/UpperBoundValueFunctionApproximation.java" />
+    </list>
+    <ignored path="HHVI.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="HHVI" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="POMDP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pomdp/environments/POMDP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="POMDPSolver.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pomdp/POMDPSolver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.57815844">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabularAlphaVector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pomdp/utilities/TabularAlphaVector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabularBeliefState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pomdp/utilities/TabularBeliefState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pomdp/utilities/RandomGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="POMDPLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pomdp/utilities/POMDPLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PolicyStrategy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pomdp/algorithms/PolicyStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../gitrepository" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pomdp/POMDPSolver.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="13" />
+    <option name="y" value="23" />
+    <option name="width" value="1260" />
+    <option name="height" value="689" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pomdp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pomdp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utilities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pomdp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="environments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pomdp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dbscan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HHVI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gitrepository" />
+  </component>
+  <component name="RunManager" selected="Application.POMDPSolver">
+    <configuration default="false" name="POMDPSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pomdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="pomdp.POMDPSolver" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HHVI" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HHVI" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.POMDPSolver" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.POMDPSolver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a88c3fa-c4ad-42e0-8a1a-63b3d59793b1" name="Default" comment="" />
+      <created>1467120389216</created>
+      <option name="number" value="Default" />
+      <updated>1467120389216</updated>
+      <workItem from="1467120398338" duration="3485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3485000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="13" y="23" width="1260" height="689" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17085427" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pomdp/environments/POMDP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pomdp/algorithms/PolicyStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pomdp/utilities/TabularBeliefState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pomdp/utilities/RandomGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pomdp/utilities/POMDPLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pomdp/utilities/TabularAlphaVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pomdp/POMDPSolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57815844">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

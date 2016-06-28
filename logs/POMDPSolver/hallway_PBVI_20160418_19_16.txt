@@ -1,0 +1,71 @@
+Started loading model Models/hallway.POMDP
+|S| = 61|A| = 5|O| = 21
+.Done loading model
+
+Init value function to min
+Min R value = 0.0 init value = 0.0
+Begin blind policy computation  5 actions
+Done action 0 after 1 iterations |V| = 1
+Done action 1 after 2 iterations |V| = 1
+Done action 2 after 1 iterations |V| = 1
+Done action 3 after 1 iterations |V| = 1
+Done action 4 after 1 iterations |V| = 1
+Done blind policy
+Started FIB
+FIB: 0, 0.8
+FIB: 1, 0.76
+FIB: 2, 0.5623447394774386
+FIB: 3, 0.4281013071262086
+FIB: 4, 0.3285065394211515
+FIB: 5, 0.2603740224206124
+FIB: 6, 0.19411816499347276
+FIB: 7, 0.1539689637397132
+FIB: 8, 0.13372692216183726
+FIB: 9, 0.11490840011941497
+FIB: 10, 0.10205625497599914
+FIB: 11, 0.09020415460029796
+FIB: 12, 0.0780719847071259
+FIB: 13, 0.07224659059365932
+FIB: 14, 0.05788431028442109
+FIB: 15, 0.04425092838596828
+FIB: 16, 0.032786535823085494
+FIB: 17, 0.02359259493801802
+FIB: 18, 0.01662184336859529
+FIB: 19, 0.011511117871788878
+FIB: 20, 0.00786134364764074
+Done FIB, max diff between QMDP and FIB is 0.0, 0.0
+0.017865
+Max lowBounddelta over bs1[0=0.017865,(1-55)=0.017857] from 0.023 to 0.024
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.04, stdev 0.17683
+Iteration: 1 |Vn|: = 2 |B|: = 2 Delta: = 0.0013 simulated ADR: 0.03950517957777273 filtered ADR: 0.04 Time: 1seconds
+Max lowBounddelta over bs1[0=0.017865,(1-55)=0.017857] from 0.025 to 0.039
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.373, stdev 0.26233
+Iteration: 2 |Vn|: = 4 |B|: = 4 Delta: = 0.0139 simulated ADR: 0.3730812870221567 filtered ADR: 0.206 Time: 0seconds
+Max lowBounddelta over bs1[0=0.017865,(1-55)=0.017857] from 0.039 to 0.055
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.379, stdev 0.29476
+Iteration: 3 |Vn|: = 12 |B|: = 8 Delta: = 0.0157 simulated ADR: 0.3791477746431526 filtered ADR: 0.293 Time: 0seconds
+Max lowBounddelta over bs-1[24=0.999982] from 0.02 to 0.108
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.477, stdev 0.22233
+Iteration: 4 |Vn|: = 28 |B|: = 16 Delta: = 0.0878 simulated ADR: 0.4766588695624763 filtered ADR: 0.385 Time: 0seconds
+Max lowBounddelta over bs-1[24=0.492558,25=0.488296,27=0.019145] from 0.128 to 0.175
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.504, stdev 0.19302
+Iteration: 5 |Vn|: = 58 |B|: = 32 Delta: = 0.0471 simulated ADR: 0.5038978858778468 filtered ADR: 0.444 Time: 0seconds
+Max lowBounddelta over bs-1[23=0.048603,24=0.047694,29=0.048603,52=0.426262,54=0.428749] from 0.108 to 0.199
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.498, stdev 0.19421
+Iteration: 6 |Vn|: = 92 |B|: = 64 Delta: = 0.0908 simulated ADR: 0.4978902285027364 filtered ADR: 0.471 Time: 1seconds
+Max lowBounddelta over bs-1[23=0.019827,24=0.044623,25=0.047832,29=0.019827,33=0.756466,52=0.018632,54=0.088048] from 0.528 to 0.668
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.49, stdev 0.19361
+Iteration: 7 |Vn|: = 165 |B|: = 128 Delta: = 0.1401 simulated ADR: 0.4895271785358369 filtered ADR: 0.48 Time: 1seconds
+Max lowBounddelta over bs-1[20=0.143897,22=0.035027,28=0.084506,30=0.589205,53=0.133871] from 0.349 to 0.468
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.494, stdev 0.19575
+Iteration: 8 |Vn|: = 224 |B|: = 228 Delta: = 0.1189 simulated ADR: 0.49440346451820005 filtered ADR: 0.487 Time: 3seconds
+Max lowBounddelta over bs-1[20=0.058366,22=0.148003,28=0.596294,30=0.180758,55=0.013953] from 0.445 to 0.519
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.512, stdev 0.19055
+Iteration: 9 |Vn|: = 363 |B|: = 328 Delta: = 0.0744 simulated ADR: 0.5120383523477114 filtered ADR: 0.5 Time: 7seconds
+Max lowBounddelta over bs-1[31=0.094267,32=0.759376,37=0.140201] from 0.723 to 0.778
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.52, stdev 0.19109
+Iteration: 10 |Vn|: = 473 |B|: = 428 Delta: = 0.0549 simulated ADR: 0.5195652000639477 filtered ADR: 0.51 Time: 12seconds
+Max lowBounddelta over bs-1[11=0.444426,16=0.026099,17=0.028101,19=0.028101,25=0.444426,48=0.010960] from 0.447 to 0.483
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.526, stdev 0.19925
+Iteration: 11 |Vn|: = 741 |B|: = 528 Delta: = 0.0353 simulated ADR: 0.5264208238160402 filtered ADR: 0.518 Time: 21seconds
+Max lowBounddelta over bs-1[12=0.054036,14=0.019748,15=0.011995,16=0.010966,17=0.041038,20=0.060193,21=0.012995,22=0.418043,25=0.255437,48=0.104709] from 0.482 to 0.515

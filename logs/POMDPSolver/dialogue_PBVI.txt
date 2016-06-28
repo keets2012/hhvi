@@ -1,0 +1,48 @@
+Started loading model Models/dialogue.POMDP
+|S| = 29|A| = 31|O| = 28
+Done loading model
+
+Init value function to min
+Min R value = 0.0 init value = 0.0
+Begin blind policy computation  31 actions
+Done action 0 after 2 iterations |V| = 1
+Done action 1 after 2 iterations |V| = 2
+Done action 2 after 2 iterations |V| = 3
+Done action 3 after 2 iterations |V| = 4
+Done action 4 after 2 iterations |V| = 5
+Done action 5 after 2 iterations |V| = 6
+Done action 6 after 2 iterations |V| = 7
+Done action 7 after 2 iterations |V| = 8
+Done action 8 after 2 iterations |V| = 9
+Done action 9 after 2 iterations |V| = 10
+Done action 10 after 2 iterations |V| = 11
+Done action 11 after 2 iterations |V| = 12
+Done action 12 after 2 iterations |V| = 13
+Done action 13 after 2 iterations |V| = 14
+Done action 14 after 2 iterations |V| = 15
+Done action 15 after 2 iterations |V| = 16
+Done action 16 after 2 iterations |V| = 17
+Done action 17 after 2 iterations |V| = 18
+Done action 18 after 2 iterations |V| = 19
+Done action 19 after 2 iterations |V| = 20
+Done action 20 after 2 iterations |V| = 21
+Done action 21 after 2 iterations |V| = 22
+Done action 22 after 2 iterations |V| = 23
+Done action 23 after 2 iterations |V| = 24
+Done action 24 after 2 iterations |V| = 25
+Done action 25 after 2 iterations |V| = 26
+Done action 26 after 2 iterations |V| = 27
+Done action 27 after 2 iterations |V| = 28
+Done action 28 after 1 iterations |V| = 28
+Done action 29 after 1 iterations |V| = 28
+Done action 30 after 1 iterations |V| = 28
+Done blind policy
+Started FIB
+FIB: 0, 1.0
+FIB: 1, 0.0
+Done FIB, max diff between QMDP and FIB is 0.0, 0.0
+0.034482758620689655
+Max delta over pomdp.utilities.TabularBeliefState@7852e922 from 0.034 to 0.77
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.808, stdev 0.31136
+Max delta over pomdp.utilities.TabularBeliefState@33986be7 from 0.52 to 0.563
+POMDP:computeAverageDiscountedReward:After 500 tests. ADR 0.831, stdev 0.27907
